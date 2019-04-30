@@ -1,4 +1,4 @@
-Chess-JS-Demo
+Traveling Chess
 =============
 
 This is a very simple demonstration of a playable chess board using jhlywa/chess.js and oakmac/chessboardjs.  
